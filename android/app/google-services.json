@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79450839829",
+    "project_id": "vpn-app-d2fe5",
+    "storage_bucket": "vpn-app-d2fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79450839829:android:798b54d03e528ce21b671c",
+        "android_client_info": {
+          "package_name": "com.vpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvXOWXR5Qq9LVQ60iUgUS22mdHp5jBNw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

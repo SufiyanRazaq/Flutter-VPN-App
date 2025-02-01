@@ -1,0 +1,42 @@
+name: vpn
+description: VPN App Developed by Sufiyan
+publish_to: 'none'
+
+version: 1.0.2+2
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  cupertino_icons: ^1.0.8
+  http: ^1.2.1
+  csv: ^6.0.0
+  lottie: ^3.1.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  google_mobile_ads: ^5.1.0
+  firebase_core: ^3.2.0
+  firebase_remote_config: ^5.0.3
+  flutter_spinkit: ^5.2.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/lottie/
+    - assets/flags/
